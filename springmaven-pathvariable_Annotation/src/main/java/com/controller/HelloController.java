@@ -16,6 +16,7 @@ public class HelloController {
 		System.out.println("welcome");
 		System.out.println(username);
 		System.out.println(password);
+		
 		return "success";
 	}
 }
